@@ -34,4 +34,4 @@ Bônus:
 Você será avaliado de acordo com a senioridade da posição a qual está aplicando. Ao finalizar o desafio você deve submeter o **Pull Request** com o seu código para a avaliação, após isso nos entrarem em contato com você através do e-mail passando um feedback do seu projeto.
 
 ## DOCUMENTAÇÃO DA API
-Está em pdf na raiz da aplicação
+Está em pdf na raiz da aplicação LARAVEL8 e Mysql
